@@ -80,6 +80,8 @@ Atualmente estou cursando o técnico em **Desenvolvimento de Sistemas no SENAI**
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 
+---
+
 <br/>
 <br/>
 
@@ -98,7 +100,7 @@ Atualmente estou cursando o técnico em **Desenvolvimento de Sistemas no SENAI**
       align="left" 
       alt="GitHub Stats" 
       height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Klem&theme=midnight-purple&layout=compact&custom_title=Tecnologias e Linguagens&langs_count=5"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Klem&theme=midnight-purple&layout=compact&custom_title=Tecnologias/Linguagens&langs_count=5"
   />
 
 </p>
