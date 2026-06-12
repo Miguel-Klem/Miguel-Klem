@@ -93,7 +93,7 @@ Atualmente estou cursando o técnico em **Desenvolvimento de Sistemas no SENAI**
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Miguel-Klem&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Miguel-Klem&show_icons=true&theme=midnight-purple&include_all_commits=true&&cache_seconds=1800&locale=pt-br" 
   />
 
 <img 
