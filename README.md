@@ -2,7 +2,7 @@
 
 **`Estudante de Desenvolvimento de Sistemas  SENAI`**
 
-Atualmente estou cursando o técnico em **Desenvolvimento de Sistemas no SENAI**. Meu foco principal é construir uma base sólida em programação, lógica e arquitetura de software, evoluindo a cada novo projeto.
+Atualmente estou cursando o técnico em **Desenvolvimento de Sistemas no SENAI**. Meu foco principal é construir uma base sólida em programação, lógica e arquitetura de software.
 
 ---
 
@@ -80,10 +80,10 @@ Atualmente estou cursando o técnico em **Desenvolvimento de Sistemas no SENAI**
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 
----
+<br/>
+<br/>
 
-<br/>
-<br/>
+---
 
 ### 📊 Estatísticas
 
