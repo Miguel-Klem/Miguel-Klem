@@ -97,8 +97,7 @@ Atualmente estou cursando o técnico em **Desenvolvimento de Sistemas no SENAI**
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="100" 
-      style="padding-right: 10px;" 
+      height="200"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Klem&theme=midnight-purple&layout=compact&custom_title=Tecnologias e Linguagens&langs_count=5"
   />
 
