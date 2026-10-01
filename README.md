@@ -12,12 +12,16 @@ Atualmente estou cursando o técnico em **Desenvolvimento de Sistemas no SENAI**
 * 📋 **LER** – Levantamento de Requisitos
 * 🌐 **ARI** – Redes com IoT 
 * ⚙️ **SOP** – Sistemas Operacionais
+* 📊 **BCD** – Banco de Dados
+* 🎨 **LIMA** – Linguagem de Marcação
+* 🗄️ **PWBE1** – Programação Back-End
+* 🧩 **PS1** – Projeto de Software
 
 ---
 
 ### 🛠️ Ferramentas
 
-**Ferramentas de Trabalho:** VS Code, Git e GitHub.
+**Ferramentas de Trabalho:** VS Code, GitHub, Figma e MySQL Workbench.
 
 ---
 
@@ -49,14 +53,6 @@ Atualmente estou cursando o técnico em **Desenvolvimento de Sistemas no SENAI**
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Arduino" 
     title="Arduino"
     width="30px" 
@@ -65,19 +61,35 @@ Atualmente estou cursando o técnico em **Desenvolvimento de Sistemas no SENAI**
 />
 <img 
     align="left" 
-    alt="Visual Studio Code" 
-    title="Visual Studio Code"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Linux" 
     title="Linux"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP"
+    title="PHP" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Figma"
+    title="Figma" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
 
 <br/>
